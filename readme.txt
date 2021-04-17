@@ -1,9 +1,8 @@
 === BuddyPress Komplimente ===
-Contributors: viruthagiri, stiofansisland, paoltaia
-Donate link: http://wpgeodirectory.com/
+Contributors: dern3rd
 Tags: buddypress, buddypress komplimente, WordPress yelp komplimente, buddypress integration, business directory plugin, directory, directory plugin, geodirectory, geodirectory buddypress, geodirectory buddypress integration, social network, yelp clone, yelp komplimente
 Requires at least: 3.1
-Tested up to: 5.2
+Tested up to: 5.5
 Stable tag: 1.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
